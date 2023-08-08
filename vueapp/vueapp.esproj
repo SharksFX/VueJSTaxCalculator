@@ -14,4 +14,7 @@
   <ItemGroup>
     <Folder Include="src\scripts\" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".vscode\launch.json" />
+  </ItemGroup>
 </Project>
